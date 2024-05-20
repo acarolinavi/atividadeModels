@@ -1,0 +1,33 @@
+.inconsolata-uniquifier {
+  font-family: "Inconsolata", monospace;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+body {
+    background-color: aqua;
+}
+.modo {
+    display: flex;
+    justify-content: right;
+    align-content: flex-end;
+}
+
+.form {
+    display:flex;
+    justify-content:center;
+    height: 60vh;
+    width: 100%;
+    align-items: center;
+    flex-direction: column;
+}
+
+p {
+    
+    color: black;
+    font-family: Inconsolata;
+    
+}
